@@ -1,0 +1,6 @@
+name      = "Monika"
+environment  = "azure"
+location     = "East US"
+public_ip = "92.55.120.148 "
+password  = "123***"
+vm_name = "${var.base_name}-vm"
